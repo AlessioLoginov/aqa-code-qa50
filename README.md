@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rnexfjwy2emy26fw?svg=true)](https://ci.appveyor.com/project/AlessioLoginov/aqa-code-qa50)
